@@ -1,0 +1,4 @@
+UI_RU = {
+    UI_options_ShoutToRemoveStress_tarzanYellKey = "Кричать как Тарзан",
+    UI_options_ShoutToRemoveStress_tarzanYellKey_tooltip = "Зажмите эту кнопку минимум на 2 секунды, чтобы сбросить напряжение",
+}

@@ -1,0 +1,4 @@
+UI_EN = {
+    UI_options_ShoutToRemoveStress_tarzanYellKey = "Tarzan Yell Key",
+    UI_options_ShoutToRemoveStress_tarzanYellKey_tooltip = "Smash that button and keep it pressed for 2 at least seconds to become fierce",
+}

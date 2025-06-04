@@ -1,0 +1,6 @@
+version=1
+id=3493062213
+title=Shout To Remove Stress
+description=Reduce stress by regular shouting or using the special Tarzan Yell (period key by default)
+tags=Build 42;Hardmode;Realistic;Silly/Fun;Traits
+visibility=public

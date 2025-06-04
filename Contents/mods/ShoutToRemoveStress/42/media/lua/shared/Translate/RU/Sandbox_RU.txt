@@ -1,0 +1,15 @@
+Sandbox_RU = {
+    Sandbox_ShoutToRemoveStress = "Крик-антистресс",
+
+    Sandbox_ShoutToRemoveStress_TarzanYellCooldown = "Перезарядка Тарзан-крика",
+    Sandbox_ShoutToRemoveStress_TarzanYellCooldown_tooltip = "Время (в игровых минутах), после которого Тарзан-крик снова снизит стресс.",
+
+    Sandbox_ShoutToRemoveStress_TarzanYellReliefAmount = "Снятие стресса Тарзан-криком",
+    Sandbox_ShoutToRemoveStress_TarzanYellReliefAmount_tooltip = "Сколько стресса снимется Тарзан-криком.",
+
+    Sandbox_ShoutToRemoveStress_DefaultShoutCooldown = "Перезарядка обычного крика",
+    Sandbox_ShoutToRemoveStress_DefaultShoutCooldown_tooltip = "Время (в игровых минутах), после которого обычный крик снова снизит стресс",
+
+    Sandbox_ShoutToRemoveStress_DefaultShoutReliefAmount = "Снятие стресса обычным криком",
+    Sandbox_ShoutToRemoveStress_DefaultShoutReliefAmount_tooltip = "Сколько стресса снимется обычным криком.",
+}

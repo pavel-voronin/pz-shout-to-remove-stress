@@ -1,0 +1,41 @@
+VERSION = 1,
+
+option ShoutToRemoveStress.TarzanYellCooldown
+{
+    type = integer,
+    default = 30,
+    min = 1,
+    max = 1440,
+    page = ShoutToRemoveStress,
+    translation = ShoutToRemoveStress_TarzanYellCooldown,
+}
+
+option ShoutToRemoveStress.TarzanYellReliefAmount
+{
+    type = double,
+    default = 0.1,
+    min = 0.01,
+    max = 1.0,
+    page = ShoutToRemoveStress,
+    translation = ShoutToRemoveStress_TarzanYellReliefAmount,
+}
+
+option ShoutToRemoveStress.DefaultShoutCooldown
+{
+    type = integer,
+    default = 20,
+    min = 1,
+    max = 1440,
+    page = ShoutToRemoveStress,
+    translation = ShoutToRemoveStress_DefaultShoutCooldown,
+}
+
+option ShoutToRemoveStress.DefaultShoutReliefAmount
+{
+    type = double,
+    default = 0.03,
+    min = 0.01,
+    max = 1.0,
+    page = ShoutToRemoveStress,
+    translation = ShoutToRemoveStress_DefaultShoutReliefAmount,
+}

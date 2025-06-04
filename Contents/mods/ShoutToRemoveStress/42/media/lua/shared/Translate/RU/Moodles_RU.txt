@@ -1,0 +1,4 @@
+Moodles_EN {
+    Moodles_FierceMoodle_Good_lvl4 = "Я всё сказал!",
+    Moodles_FierceMoodle_Good_desc_lvl4 = "",
+}

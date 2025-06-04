@@ -1,0 +1,9 @@
+id=shoutToRemoveStress
+modversion=1.0.0
+name=Shout To Remove Stress (Tarzan mode)
+author=kolpaque
+description=Reduce stress by regular shouting or using the special Tarzan Yell (period key by default).
+poster=poster.png
+icon=icon.png
+versionMin=42.0
+require=\MoodleFramework

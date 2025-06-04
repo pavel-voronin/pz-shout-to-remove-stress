@@ -1,0 +1,15 @@
+Sandbox_EN = {
+    Sandbox_ShoutToRemoveStress = "Shout To Remove Stress",
+    
+    Sandbox_ShoutToRemoveStress_TarzanYellCooldown = "Tarzan Yell Cooldown",
+    Sandbox_ShoutToRemoveStress_TarzanYellCooldown_tooltip = "Time (in game minutes) before Tarzan Yell is effective again.",
+    
+    Sandbox_ShoutToRemoveStress_TarzanYellReliefAmount = "Tarzan Yell Stress Relief",
+    Sandbox_ShoutToRemoveStress_TarzanYellReliefAmount_tooltip = "How much stress is relieved by performing the Tarzan Yell.",
+    
+    Sandbox_ShoutToRemoveStress_DefaultShoutCooldown = "Default Shout Cooldown",
+    Sandbox_ShoutToRemoveStress_DefaultShoutCooldown_tooltip = "Time (in game minutes) before the default shout can reduce stress again.",
+    
+    Sandbox_ShoutToRemoveStress_DefaultShoutReliefAmount = "Default Shout Stress Relief",
+    Sandbox_ShoutToRemoveStress_DefaultShoutReliefAmount_tooltip = "How much stress is relieved by performing the default shout.",
+}
